@@ -1,10 +1,7 @@
 Hello,World
 
 ## My Name : Kareem Adel
-## My Programming languages : C# , PHP , JAVASCIPT , PYTHON , TYPESCRIPT , HTML , CSS , SASS , LESS , JAVA , Node.JS , "DENO" , "LUA" , Etc...
-## My Libs : Chart.js , D3 , Highcharts , Bootstrap , jQuery , Angular , VUE JS , Express.js 
+## I Love BackEnd but i not bad in FrontEnd i'm good too
+## My Programming languages : JavaScript , Node.js , TypeScript , PHP , Python , C#
+## My Libs : Nuxt , NestJS , React JS , Angular , VUE JS , Express.js , D3 , Chart.js ,jQuery , Bootstrap 
 ## TOOLS/Programmes : Git , NPM , Uinty , Photoshop , illustrator 
-## I used to use systems like Linux and Windows Server and create servers and infrastructure 
-## I have experience closing vulnerabilities and testing servers against attacks
-FRONTEND , BACKEND , UI/UX Developer 
-DevOPS , FullStuck , Tester , Hacker , System-Developer , Game-Developer 
