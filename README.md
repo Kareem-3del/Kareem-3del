@@ -6,6 +6,4 @@ Personal-Site : <a href="http://kareem-adel.me/">Kareem-Adel.ME</a>
 <br>
 Job-Title : Back-End Developer
 <hr>
-Skills : JavaScript, TypeScript, NodeJS, Express, NestJS , NextJS , ReactJS , TypeORM , PostgresSQL , MySQL , MongoDB
-
 
