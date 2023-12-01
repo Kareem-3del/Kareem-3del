@@ -1,8 +1,6 @@
 Name : <b>Kareem Adel Mohammed</b>
 <br>
-Phone 📱: +20 <b>01001314657</b>
-<br>
-Personal-Site : <a href="http://kareem-adel.me/">Kareem-Adel.ME</a>
+Phone 📱: +20 <b>01142780644</b>
 <br>
 Job-Title : Back-End Developer
 <hr>
