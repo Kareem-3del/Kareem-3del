@@ -6,4 +6,4 @@ Job-Title : Back-End Developer
 <hr>
 Study Field : Computer Engineering 
 <br>
-GPA [3.7]
+GPA [3.73]
