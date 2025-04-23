@@ -34,8 +34,8 @@ Im a **Computer Engineer** who loves to bring ideas to life in the browser. I gr
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
     <div style="display: flex; gap: 20px;;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareem-3del&theme=tokyonight&hide_border=true" alt="Kareem Streak" height="165">
-        <img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=15938843" alt="Stack Overflow Stats"  />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareem-3del&theme=tokyonight&hide_border=true" alt="Kareem Streak" height="200">
+    <img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=15938843" alt="Stack Overflow Stats"  />
     </div>
     <div style="">
     </div>
