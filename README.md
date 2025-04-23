@@ -32,14 +32,9 @@ Im a **Computer Engineer** who loves to bring ideas to life in the browser. I gr
 
 ## 📈 My GitHub stats
 
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareem-3del&theme=tokyonight&hide_border=true" alt="Kareem Streak" height="165">
-  </p>
-</div>
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
     <div style="display: flex; gap: 20px;;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem-3del&layout=compact&theme=merko&hide_border=true" alt="" height="200" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareem-3del&theme=tokyonight&hide_border=true" alt="Kareem Streak" height="165">
         <img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=15938843" alt="Stack Overflow Stats"  />
     </div>
     <div style="">
