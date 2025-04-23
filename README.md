@@ -37,6 +37,14 @@ Im a **Computer Engineer** who loves to bring ideas to life in the browser. I gr
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareem-3del&theme=tokyonight&hide_border=true" alt="Kareem Streak" height="165">
   </p>
 </div>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+    <div style="display: flex; gap: 20px;;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem-3del&layout=compact&theme=merko&hide_border=true" alt="" height="200" />
+        <img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=15938843" alt="Stack Overflow Stats"  />
+    </div>
+    <div style="">
+    </div>
+</div>
 
 ![Obsidian](https://img.shields.io/badge/-Obsidian-503D4D?style=flat&logo=obsidian&logoColor=#0078D6)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=#000000)
